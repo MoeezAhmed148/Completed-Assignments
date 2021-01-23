@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    width: 90%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.heading {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+.subheading {
+    font-size: 30px;
+    text-shadow: 4px 4px 10px rgb(34, 34, 34);
+    text-transform: uppercase;
+}
+
+.main2 {
+    width: 90%;
+    margin: auto;
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.para1 {
+    font-size: 25px;
+    line-height: 40px;
+}
+
+.list {
+    padding-left: 70px;
+    font-size: 25px;
+    line-height: 70px;
+}
+
+.list a {
+    text-decoration: none;
+    color: black;
+}
+
+#list1 {
+    color: blue;
+}
+
+.courses::first-letter {
+    font-size: 50px;
+}
+
+.description {
+    font-size: 25px;
+    line-height: 40px;
+}
+
+.go {
+    text-align: center;
+}
+
+.go a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
